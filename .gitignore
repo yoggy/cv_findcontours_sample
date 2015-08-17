@@ -16,7 +16,6 @@ x64/
 x86/
 build/
 bld/
-[Bb]in/
 [Oo]bj/
 
 # Roslyn cache directories
@@ -229,3 +228,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+
+*.filters
