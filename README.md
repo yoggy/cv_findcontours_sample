@@ -1,5 +1,5 @@
 cv_findcontours_sample
 ========
-cv::findContours()‚ğg‚Á‚½ƒTƒ“ƒvƒ‹
+cv::findContours()ã‚’ä½¿ã£ãŸã‚µãƒ³ãƒ—ãƒ«
 
 ![bin/result.png](bin/result.png)
